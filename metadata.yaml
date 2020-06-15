@@ -1,5 +1,5 @@
 _repo: The-Undesirable-Governess_62317
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Mills, Arthur Wallis
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '33263'
     url: http://www.gutenberg.org/2009/agents/33263
     wikipedia: https://en.wikipedia.org/wiki/Arthur_Wallis_Mills
+covers:
+- cover_type: archival
+  image_path: 62317-h/images/cover.jpg
 creator:
   author:
     agent_name: Crawford, F. Marion (Francis Marion)
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1316
     wikipedia: http://en.wikipedia.org/wiki/Francis_Marion_Crawford
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62317#The-Undesirable-Governess
 gutenberg_issued: '2020-06-03'
 gutenberg_type: Text
 identifiers:
