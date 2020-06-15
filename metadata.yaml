@@ -1,0 +1,38 @@
+_repo: The-Undesirable-Governess_62317
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Mills, Arthur Wallis
+    alias: Mills, A. Wallis (Arthur Wallis)
+    birthdate: 1878
+    deathdate: 1940
+    gutenberg_agent_id: '33263'
+    url: http://www.gutenberg.org/2009/agents/33263
+    wikipedia: https://en.wikipedia.org/wiki/Arthur_Wallis_Mills
+creator:
+  author:
+    agent_name: Crawford, F. Marion (Francis Marion)
+    alias: Crawford, Francis Marion
+    birthdate: 1854
+    deathdate: 1909
+    gutenberg_agent_id: '1316'
+    url: http://www.gutenberg.org/2009/agents/1316
+    wikipedia: http://en.wikipedia.org/wiki/Francis_Marion_Crawford
+description: ''
+gutenberg_issued: '2020-06-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62317'
+  lccn: '10009511'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Governesses -- Fiction'
+- !lcsh 'England -- Social life and customs -- 20th century -- Fiction'
+- !lcsh 'Families -- Fiction'
+- GITenberg
+title: The Undesirable Governess
+url: http://www.gutenberg.org/ebooks/62317
